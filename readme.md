@@ -22,18 +22,18 @@
 	https://api.telegram.org/bot*Zdes'VashTokenAvtorizacii/getMe
 3) можно вставить ссылку в строку браузера и в ответ прилетит объект:
 ```json
-	{
-		"ok":true,
-		"result":{
-			"id":1234567890,
-			"is_bot":true,
-			"first_name":"bot_title",
-			"username":"username_bot",
-			"can_join_groups":true,
-			"can_read_all_group_messages":false,
-			"supports_inline_queries":false
-		}
+{
+	"ok":true,
+	"result":{
+		"id":1234567890,
+		"is_bot":true,
+		"first_name":"bot_title",
+		"username":"username_bot",
+		"can_join_groups":true,
+		"can_read_all_group_messages":false,
+		"supports_inline_queries":false
 	}
+}
 ```
 
 ## python requests
