@@ -2,6 +2,8 @@
 
 Документация по Telegram API тут: https://core.telegram.org/bots/api
 
+Ссылка на трансляцию: https://youtu.be/NnRT2UYkRx8
+
 ## Для создания нового бота: 
 1) в приложении Telegram, найти бота: @BotFather  
 2) написать ему команду (или выбрать из меню): /newbot
